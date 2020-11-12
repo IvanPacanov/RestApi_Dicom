@@ -1,5 +1,5 @@
 {
-  "FilePath": "e:\\Projects\\Server_RestApi\\RestApi_Dicom\\Commander.csproj",
+  "FilePath": "e:\\Projects\\Server_RestApi\\RestApiDicom\\RestApi_Dicom\\RestApi_Dicom.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14389,7 +14389,7 @@
     ],
     "CSharpLanguageVersion": 800
   },
-  "RootNamespace": "Commander",
+  "RootNamespace": "RestApi_Dicom",
   "Documents": [],
   "SerializationFormat": "0.2"
 }

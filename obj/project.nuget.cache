@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dhjBtyPjV1Z+DNavl7kC9p2AQzag2H2aOwZZ6xQKIICgO+G32S3VhKzHYPwebmDvF4BftG8BR1LUi9Atcdia7g==",
+  "dgSpecHash": "b5i3utfq0t8xjVVDjHKOnS3nZ3aRdzyugYQuhe78nx/Nda8LI6F09FwZD3Sw0sdJVoXCeHRiS1Cbj5fPapJ+9Q==",
   "success": true,
-  "projectFilePath": "E:\\Projects\\Server_RestApi\\Commander\\Commander.csproj",
+  "projectFilePath": "E:\\Projects\\Server_RestApi\\RestApiDicom\\RestApi_Dicom\\RestApi_Dicom.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

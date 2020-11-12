@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\Server_RestApi\\Commander\\Commander.csproj",
-      "projectName": "Commander",
-      "projectPath": "E:\\Projects\\Server_RestApi\\Commander\\Commander.csproj",
+      "projectUniqueName": "E:\\Projects\\Server_RestApi\\RestApiDicom\\RestApi_Dicom\\RestApi_Dicom.csproj",
+      "projectName": "RestApi_Dicom",
+      "projectPath": "E:\\Projects\\Server_RestApi\\RestApiDicom\\RestApi_Dicom\\RestApi_Dicom.csproj",
       "packagesPath": "C:\\Users\\Mati\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\Server_RestApi\\Commander\\obj\\",
+      "outputPath": "E:\\Projects\\Server_RestApi\\RestApiDicom\\RestApi_Dicom\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Microsoft\\Xamarin\\NuGet\\"

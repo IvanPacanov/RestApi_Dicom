@@ -1,9 +1,9 @@
-using System.Collections.Generic;
 using RestApi_Dicom.Models;
+using System.Collections.Generic;
 
 namespace RestApi_Dicom.Data
 {
-    public interface ICommanderRepo
+ public interface ICommanderRepo
     {
         IEnumerable<Command> GetAppCommands();
         Command GetCommandById(int Id);
